@@ -3,6 +3,10 @@ Destini_App is a kind of "choose your own adventure game". The app will tell a s
 
 This project is created using Swift & UIKit. UI is developed using MVC design pattern.
 
+This app is made under the guidance of Dr. Angela Yu
+
+
+
 ## screenshots
 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-25 at 00 09 29](https://user-images.githubusercontent.com/83110256/126879022-ba2ab408-3e49-458a-a415-c6b1df6c74ba.png)
